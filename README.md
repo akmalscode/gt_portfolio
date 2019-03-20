@@ -34,13 +34,6 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
 
 * Make sure to `git add .` and `git commit -m "initial site files"`. Then type `git push origin master` to push your changes to your GitHub repo.
 
-5. Reference these screenshots for your site:
-
-![Portfolio About](Images/portfolio-about-me.png)
-
-![Portfolio Contact](Images/portfolio-contact.png)
-
-![Portfolio Gallery](Images/portfolio-gallery.png)
 
 * **IMPORTANT** Your site's layout must match the designs in these screenshots. You'll find the specs for these designs below.
 
@@ -91,42 +84,3 @@ In this assignment, you'll build a professional portfolio site using HTML/CSS. T
 
 6. Dimensions:
 * The entire content and the main section content area is `960px` wide.
-
-![Recommended Dimensions](Images/Recommended-Dimensions.png)
-
-### Bonus
-
-1. Make your pages more sophisticated by adding style to text links, to image links, and to buttons for when a user hovers their cursor over them. A CSS hover tutorial can be found [here](http://www.codeitpretty.com/2013/06/how-to-use-css-hover-effects.html).
-
-2. You can use [Adobe Kuler](https://color.adobe.com/create/color-wheel/) to find colors that match the theme (in this case, the primary color is Teal `#4aaaa5`).
-
-3. Make a "sticky footer." You will notice the dark grey footer will always rest just below the content. This is fine whenever your site has enough content to push it down past the height of most monitors. But if there isn't much content in the body, the footer could rest in the middle of the page:
-* Try to code the footer in a way that it will always remain at the bottom of the page, no matter how short the content is. A sticky footer tutorial can be found [here](https://css-tricks.com/couple-takes-sticky-footer/).
-* Give the Footer the following CSS:
-* border-top: 8px solid #4aaaa5;
-
-### Helpful Hints
-
-* For help with Git and GitHub, be sure to consult the GitHub Supplemental Guide sent to you in class.
-
-* Don't forget to look into these concepts: `float`, `padding`, `margin`, `display`, `overflow`, `clear` and `text-align`.
-
-* This will be a tough assignment, but towards the end of the course, you'll look back to this exercise and realize just how much you've grown as a developer. Stay positive! You've got this!
-
-### Reminder: Submission on BCS
-
-* Please submit the link to the Github Repository!
-
-- - -
-
-### Minimum Requirements
-
-Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed.
-
-- - -
-
-### One More Thing
-
-If you have any questions about this project or the material we have covered, please post them in the community channels in slack so that your fellow developers can help you! If you're still having trouble, you can come to office hours for assistance from your instructor and TAs.
-
-**Good Luck!**
